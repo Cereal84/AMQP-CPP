@@ -3,7 +3,7 @@
  *
  *  @author Alessandro Pischedda <alessandro.pischedda@gmail.com>
  *
- *  Compile with g++ -std=c++11 producer.cpp -o producer -lpthread -lboost_system -lamqpcpp
+ *  Compile with g++ -std=c++11 new_task.cpp -o new_task -lpthread -lboost_system -lamqpcpp
  */
 
 #include <unistd.h>
